@@ -1,7 +1,7 @@
 # uploadFirstProject
 
 PT-BR:
-Nesse projeto a minha tintenção foi mostrar para vocês um pouco das minhas noções e
+Nesse projeto a minha intenção foi mostrar para vocês um pouco das minhas noções e
 habilidades em HTML/CSS/JavaScript. Eu continuo trabalhando bastante em novos projetos e
 aprendendo ao mesmo tempo sobre novas ferramentas para me capacitar nessa nova jornada.
 Espero upar todos os outros projetos em breve. Obrigado pela visita. :D
